@@ -34,3 +34,24 @@ This project is created for learning and academic purposes.
 1. Download or clone this repository:
    ```bash
    git clone https://github.com/Yanyannix/Schoolkit.git
+
+---
+
+   ## 📂 Project Structure
+   schoolkit/
+│
+├── connections/
+│   └── connection.php
+│
+├── css/
+│   └── style files
+│
+├── add.php
+├── edit.php
+├── delete.php
+├── index.php
+├── login.php
+├── logout.php
+├── details.php
+├── result.php
+└── README.md
